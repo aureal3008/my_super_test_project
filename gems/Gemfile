@@ -1,0 +1,6 @@
+Source "https://rubygems.org"
+Ruby '2.5.1'
+Gem 'spec'
+Gem ' pry'
+Gem 'rubicop' , ~> 0.57.2'
+Gem 'rspec'
